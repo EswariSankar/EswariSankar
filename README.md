@@ -65,6 +65,8 @@
 
 <br>
 
+
+
 ### ✨ Projects
 
 <table width="100%">
@@ -78,15 +80,38 @@
       <a href="https://github.com/EswariSankar/Real-Time-Driver-Drowsiness-Detection-and-Centralized-Transport-Management-System">→ View on GitHub</a>
     </td>
   </tr>
-  <tr>
+<tr>
     <td valign="top" bgcolor="#ffffff">
-      <h3>🛣️ Pothole Detection System</h3>
-      <p>Detects road potholes using image processing and Python to reduce accidents and enhance road safety.</p>
+      <h3>🚘 Car Rental DApp</h3>
+      <p>A decentralized car rental platform built on Ethereum where owners list vehicles and renters pay directly in ETH — governed entirely by a Solidity smart contract with no intermediaries.</p>
       <p>
-        <code>Python</code> <code>OpenCV</code> <code>Image Processing</code>
+        <code>Blockchain</code> <code>Solidity</code> <code>Hardhat</code> <code>React.js</code> <code>Web3.js</code> <code>MetaMask</code>
       </p>
+      <a href="https://github.com/EswariSankar/Car-Rental-Dapp">→ View on GitHub</a>
     </td>
   </tr>
+ <tr>
+    <td valign="top" bgcolor="#ffffff">
+      <h3>🛣️ Pothole Detection System</h3>
+      <p>Detects road potholes from images using HOG features and SVM classification with OpenCV, helping reduce road accidents and support infrastructure maintenance decisions.</p>
+      <p>
+        <code>Image Processing</code> <code>Python</code> <code>OpenCV</code> <code>SVM</code> <code>HOG</code> <code>Tkinter</code>
+      </p>
+      <a href="https://github.com/EswariSankar/Pothole-Detection-System">→ View on GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#ffffff">
+      <h3>🖱️ Virtual Mouse Using Hand Gestures</h3>
+      <p>A touchless mouse control system that uses real-time hand tracking via webcam to move the cursor, perform clicks, and scroll — eliminating the need for a physical mouse entirely.</p>
+      <p>
+        <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>PyAutoGUI</code>
+      </p>
+      <a href="https://github.com/EswariSankar/Virtual-Mouse-Using-Hand-Gestures">→ View on GitHub</a>
+    </td>
+  </tr>
+ 
+  
 </table>
 
 <br>
