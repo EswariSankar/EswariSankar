@@ -75,7 +75,7 @@
       <h3>🚗 Real-Time Driver Drowsiness Detection & Transport Management System</h3>
       <p>An integrated platform detecting driver drowsiness via Eye Aspect Ratio (EAR) analysis, monitoring alcohol levels via MQ-3 sensor & ESP32, with GPS fleet tracking, staff scheduling, passenger booking, and complaint handling.</p>
       <p>
-        <code>Django</code> <code>React.js</code> <code>ESP32</code> <code>MediaPipe</code> <code>OpenCV</code> <code>SQLite</code> <code>Leaflet.js</code>
+        <code>Django</code> <code>React.js</code> <code>IOT</code> <code>ESP32</code> <code>MediaPipe</code> <code>OpenCV</code> <code>SQLite</code> <code>Leaflet.js</code>
       </p>
       <a href="https://github.com/EswariSankar/Real-Time-Driver-Drowsiness-Detection-and-Centralized-Transport-Management-System">→ View on GitHub</a>
     </td>
@@ -95,7 +95,7 @@
       <h3>🛣️ Pothole Detection System</h3>
       <p>Detects road potholes from images using HOG features and SVM classification with OpenCV, helping reduce road accidents and support infrastructure maintenance decisions.</p>
       <p>
-        <code>Image Processing</code> <code>Python</code> <code>OpenCV</code> <code>SVM</code> <code>HOG</code> <code>Tkinter</code>
+        <code>Image Processing</code> <code>Machine Learning</code>  <code>Python</code> <code>OpenCV</code> <code>SVM</code> <code>HOG</code> <code>Tkinter</code>
       </p>
       <a href="https://github.com/EswariSankar/Pothole-Detection-System">→ View on GitHub</a>
     </td>
@@ -103,7 +103,7 @@
   <tr>
     <td valign="top" bgcolor="#ffffff">
       <h3>🖱️ Virtual Mouse Using Hand Gestures</h3>
-      <p>A touchless mouse control system that uses real-time hand tracking via webcam to move the cursor, perform clicks, and scroll — eliminating the need for a physical mouse entirely.</p>
+      <p>A touchless mouse control system that uses real-time hand tracking via webcam to move the cursor, perform clicks, and taking screenshots — eliminating the need for a physical mouse entirely.</p>
       <p>
         <code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>PyAutoGUI</code>
       </p>
